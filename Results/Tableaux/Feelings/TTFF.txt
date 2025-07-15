@@ -1,0 +1,200 @@
+           TTFF (AOI)  % TTFF (AOI)
+Happy                              
+Blues         3508.98      0.215815
+Whites        3104.13      0.190915
+Reds          2687.71      0.165304
+Oranges       2173.39      0.133671
+Lavenders     2137.07      0.131438
+Yellows       1506.68      0.092666
+Greens        1141.25      0.070191 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Relaxed                            
+Oranges       3417.32      0.198498
+Lavenders     3052.28      0.177294
+Blues         3051.56      0.177253
+Reds          2738.39      0.159062
+Whites        2302.52      0.133744
+Yellows       1628.03      0.094566
+Greens        1025.78      0.059583 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Energized                          
+Blues         3513.61      0.207155
+Reds          2898.34      0.170880
+Whites        2721.49      0.160453
+Lavenders     2514.18      0.148230
+Oranges       2408.38      0.141993
+Yellows       1660.58      0.097904
+Greens        1244.72      0.073386 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Surprised                          
+Lavenders     2505.92      0.172791
+Blues         2395.51      0.165178
+Whites        2196.94      0.151486
+Reds          2115.08      0.145841
+Oranges       2102.01      0.144940
+Yellows       1682.97      0.116046
+Greens        1504.18      0.103718 
+ 
+                TTFF (AOI)  % TTFF (AOI)
+Self-Confident                          
+Blues              3527.08      0.203231
+Oranges            3073.17      0.177077
+Whites             3023.03      0.174187
+Lavenders          2774.13      0.159846
+Reds               2265.47      0.130537
+Yellows            1669.75      0.096211
+Greens             1022.41      0.058911 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Sensual                            
+Blues         3482.98      0.209429
+Whites        3143.90      0.189041
+Oranges       2614.65      0.157217
+Reds          2189.59      0.131659
+Lavenders     1989.33      0.119617
+Yellows       1984.66      0.119336
+Greens        1225.69      0.073700 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Reassured                          
+Blues         4575.20      0.258794
+Reds          2962.64      0.167580
+Oranges       2737.75      0.154859
+Lavenders     2302.12      0.130218
+Whites        2043.21      0.115573
+Yellows       1730.40      0.097879
+Greens        1327.62      0.075096 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Calm                               
+Reds          3481.62      0.215064
+Oranges       3271.74      0.202099
+Lavenders     2366.79      0.146199
+Blues         2139.76      0.132175
+Yellows       2010.32      0.124180
+Whites        1930.34      0.119239
+Greens         988.23      0.061044 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Secured                            
+Lavenders     3366.59      0.192293
+Oranges       2853.43      0.162982
+Blues         2719.95      0.155358
+Reds          2700.02      0.154220
+Whites        2573.41      0.146988
+Yellows       2104.62      0.120212
+Greens        1189.57      0.067946 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Intrigued                          
+Oranges       2534.24      0.175841
+Reds          2531.11      0.175624
+Blues         2314.67      0.160606
+Lavenders     2114.68      0.146729
+Whites        1956.69      0.135767
+Yellows       1951.56      0.135411
+Greens        1009.16      0.070022 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Hydrating                          
+Reds          7428.86      0.359500
+Oranges       3456.58      0.167272
+Yellows       2344.70      0.113465
+Lavenders     2206.86      0.106795
+Blues         2084.79      0.100888
+Whites        1813.58      0.087763
+Greens        1329.07      0.064317 
+ 
+             TTFF (AOI)  % TTFF (AOI)
+Anti-Ageing                          
+Blues           3515.72      0.206180
+Oranges         3301.62      0.193624
+Reds            2901.06      0.170133
+Whites          2347.17      0.137650
+Lavenders       2300.55      0.134916
+Yellows         1563.75      0.091706
+Greens          1121.82      0.065789 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Purifying                          
+Blues         3081.49      0.192943
+Oranges       3019.95      0.189090
+Lavenders     2878.16      0.180212
+Reds          2435.87      0.152519
+Yellows       1886.08      0.118094
+Whites        1737.31      0.108779
+Greens         932.12      0.058363 
+ 
+            TTFF (AOI)  % TTFF (AOI)
+Nourishing                          
+Reds           2696.52      0.183144
+Oranges        2609.40      0.177227
+Blues          2199.22      0.149368
+Lavenders      2188.71      0.148654
+Whites         2050.54      0.139270
+Yellows        1855.74      0.126039
+Greens         1123.36      0.076297 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Soothing                           
+Blues         3955.79      0.220202
+Oranges       3106.75      0.172939
+Reds          2819.00      0.156922
+Yellows       2284.51      0.127169
+Lavenders     2253.62      0.125449
+Whites        2202.62      0.122610
+Greens        1342.10      0.074709 
+ 
+            TTFF (AOI)  % TTFF (AOI)
+Refreshing                          
+Oranges       10893.28      0.328983
+Greens         9990.76      0.301726
+Reds           2853.45      0.086176
+Lavenders      2844.05      0.085892
+Whites         2260.51      0.068269
+Blues          2167.35      0.065455
+Yellows        2102.60      0.063500 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Repairing                          
+Reds          3746.06      0.203738
+Blues         3667.20      0.199449
+Oranges       3159.04      0.171812
+Whites        2570.48      0.139802
+Lavenders     2177.09      0.118406
+Yellows       1924.63      0.104676
+Greens        1142.11      0.062116 
+ 
+            TTFF (AOI)  % TTFF (AOI)
+Protecting                          
+Blues          2845.38      0.186134
+Whites         2417.63      0.158152
+Oranges        2377.84      0.155549
+Reds           2275.76      0.148872
+Lavenders      2125.50      0.139042
+Yellows        1889.77      0.123622
+Greens         1354.83      0.088628 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Softening                          
+Blues         4697.86      0.262499
+Oranges       2979.57      0.166487
+Lavenders     2763.53      0.154416
+Whites        2524.66      0.141069
+Reds          2140.92      0.119627
+Yellows       1842.95      0.102977
+Greens         947.19      0.052925 
+ 
+           TTFF (AOI)  % TTFF (AOI)
+Glowing                            
+Blues         3825.96      0.227222
+Reds          2902.28      0.172365
+Lavenders     2642.65      0.156946
+Whites        2568.16      0.152522
+Oranges       1872.03      0.111179
+Yellows       1578.15      0.093726
+Greens        1448.77      0.086042 
+ 

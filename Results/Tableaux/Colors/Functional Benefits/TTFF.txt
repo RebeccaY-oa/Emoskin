@@ -1,0 +1,91 @@
+             TTFF (AOI)  % TTFF (AOI)
+Whites                               
+Repairing       2570.48      0.114281
+Glowing         2568.16      0.114178
+Softening       2524.66      0.112244
+Protecting      2417.63      0.107485
+Anti-Ageing     2347.17      0.104353
+Refreshing      2260.51      0.100500
+Soothing        2202.62      0.097926
+Nourishing      2050.54      0.091165
+Hydrating       1813.58      0.080630
+Purifying       1737.31      0.077239 
+ 
+             TTFF (AOI)  % TTFF (AOI)
+Yellows                              
+Hydrating       2344.70      0.121658
+Soothing        2284.51      0.118535
+Refreshing      2102.60      0.109096
+Repairing       1924.63      0.099862
+Protecting      1889.77      0.098053
+Purifying       1886.08      0.097862
+Nourishing      1855.74      0.096288
+Softening       1842.95      0.095624
+Glowing         1578.15      0.081884
+Anti-Ageing     1563.75      0.081137 
+ 
+             TTFF (AOI)  % TTFF (AOI)
+Blues                                
+Softening       4697.86      0.146621
+Soothing        3955.79      0.123461
+Glowing         3825.96      0.119409
+Repairing       3667.20      0.114454
+Anti-Ageing     3515.72      0.109726
+Purifying       3081.49      0.096174
+Protecting      2845.38      0.088805
+Nourishing      2199.22      0.068638
+Refreshing      2167.35      0.067644
+Hydrating       2084.79      0.065067 
+ 
+             TTFF (AOI)  % TTFF (AOI)
+Greens                               
+Refreshing      9990.76      0.481897
+Glowing         1448.77      0.069880
+Protecting      1354.83      0.065349
+Soothing        1342.10      0.064735
+Hydrating       1329.07      0.064107
+Repairing       1142.11      0.055089
+Nourishing      1123.36      0.054184
+Anti-Ageing     1121.82      0.054110
+Softening        947.19      0.045687
+Purifying        932.12      0.044960 
+ 
+             TTFF (AOI)  % TTFF (AOI)
+Lavenders                            
+Purifying       2878.16      0.118051
+Refreshing      2844.05      0.116652
+Softening       2763.53      0.113349
+Glowing         2642.65      0.108391
+Anti-Ageing     2300.55      0.094359
+Soothing        2253.62      0.092435
+Hydrating       2206.86      0.090517
+Nourishing      2188.71      0.089772
+Repairing       2177.09      0.089296
+Protecting      2125.50      0.087180 
+ 
+             TTFF (AOI)  % TTFF (AOI)
+Oranges                              
+Refreshing     10893.28      0.296206
+Hydrating       3456.58      0.093990
+Anti-Ageing     3301.62      0.089776
+Repairing       3159.04      0.085899
+Soothing        3106.75      0.084478
+Purifying       3019.95      0.082117
+Softening       2979.57      0.081019
+Nourishing      2609.40      0.070954
+Protecting      2377.84      0.064657
+Glowing         1872.03      0.050903 
+ 
+             TTFF (AOI)  % TTFF (AOI)
+Reds                                 
+Hydrating       7428.86      0.230712
+Repairing       3746.06      0.116338
+Glowing         2902.28      0.090134
+Anti-Ageing     2901.06      0.090096
+Refreshing      2853.45      0.088617
+Soothing        2819.00      0.087547
+Nourishing      2696.52      0.083743
+Purifying       2435.87      0.075649
+Protecting      2275.76      0.070676
+Softening       2140.92      0.066489 
+ 

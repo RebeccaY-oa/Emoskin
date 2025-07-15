@@ -1,0 +1,91 @@
+             Fixation count  % Fixation count
+Whites                                       
+Refreshing             4.68          0.148148
+Hydrating              4.00          0.126622
+Glowing                3.50          0.110795
+Repairing              3.17          0.100348
+Purifying              2.83          0.089585
+Nourishing             2.76          0.087369
+Soothing               2.73          0.086420
+Anti-Ageing            2.72          0.086103
+Softening              2.65          0.083887
+Protecting             2.55          0.080722 
+ 
+             Fixation count  % Fixation count
+Yellows                                      
+Refreshing             4.88          0.143995
+Glowing                4.34          0.128061
+Repairing              4.09          0.120685
+Softening              3.57          0.105341
+Hydrating              3.52          0.103865
+Anti-Ageing            3.20          0.094423
+Soothing               3.00          0.088522
+Protecting             2.57          0.075834
+Purifying              2.38          0.070227
+Nourishing             2.34          0.069047 
+ 
+             Fixation count  % Fixation count
+Blues                                        
+Hydrating              3.94          0.157537
+Refreshing             2.93          0.117153
+Purifying              2.63          0.105158
+Soothing               2.55          0.101959
+Glowing                2.48          0.099160
+Anti-Ageing            2.23          0.089164
+Protecting             2.23          0.089164
+Softening              2.22          0.088764
+Repairing              1.97          0.078768
+Nourishing             1.83          0.073171 
+ 
+             Fixation count  % Fixation count
+Greens                                       
+Refreshing             4.56          0.135231
+Repairing              3.77          0.111803
+Hydrating              3.60          0.106762
+Glowing                3.58          0.106168
+Soothing               3.50          0.103796
+Softening              3.13          0.092823
+Protecting             3.12          0.092527
+Nourishing             3.00          0.088968
+Anti-Ageing            2.87          0.085113
+Purifying              2.59          0.076809 
+ 
+             Fixation count  % Fixation count
+Lavenders                                    
+Soothing               3.27          0.124905
+Refreshing             3.26          0.124523
+Protecting             2.98          0.113827
+Glowing                2.94          0.112299
+Repairing              2.92          0.111536
+Hydrating              2.59          0.098930
+Anti-Ageing            2.41          0.092055
+Softening              2.35          0.089763
+Purifying              1.73          0.066081
+Nourishing             1.73          0.066081 
+ 
+             Fixation count  % Fixation count
+Oranges                                      
+Glowing                3.74          0.133286
+Hydrating              3.58          0.127584
+Repairing              3.50          0.124733
+Soothing               2.79          0.099430
+Protecting             2.77          0.098717
+Anti-Ageing            2.70          0.096222
+Softening              2.63          0.093728
+Nourishing             2.40          0.085531
+Refreshing             2.18          0.077691
+Purifying              1.77          0.063079 
+ 
+             Fixation count  % Fixation count
+Reds                                         
+Refreshing             9.93          0.291202
+Softening              3.43          0.100587
+Anti-Ageing            3.05          0.089443
+Glowing                2.94          0.086217
+Soothing               2.67          0.078299
+Protecting             2.67          0.078299
+Repairing              2.61          0.076540
+Hydrating              2.56          0.075073
+Nourishing             2.24          0.065689
+Purifying              2.00          0.058651 
+ 

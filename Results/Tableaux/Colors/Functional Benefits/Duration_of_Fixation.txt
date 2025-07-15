@@ -1,0 +1,91 @@
+             Duration of average fixation  % Duration of average fixation
+Whites                                                                   
+Purifying                          563.09                        0.147295
+Nourishing                         417.24                        0.109143
+Anti-Ageing                        404.70                        0.105863
+Protecting                         378.47                        0.099002
+Repairing                          369.84                        0.096744
+Soothing                           348.41                        0.091138
+Hydrating                          344.17                        0.090029
+Softening                          341.24                        0.089263
+Refreshing                         339.31                        0.088758
+Glowing                            316.40                        0.082765 
+ 
+             Duration of average fixation  % Duration of average fixation
+Yellows                                                                  
+Nourishing                         400.16                        0.116466
+Softening                          363.21                        0.105712
+Anti-Ageing                        363.06                        0.105668
+Glowing                            361.42                        0.105191
+Purifying                          343.45                        0.099960
+Soothing                           337.15                        0.098127
+Repairing                          331.27                        0.096415
+Hydrating                          320.10                        0.093164
+Refreshing                         318.19                        0.092609
+Protecting                         297.85                        0.086689 
+ 
+             Duration of average fixation  % Duration of average fixation
+Blues                                                                    
+Hydrating                          525.24                        0.136000
+Refreshing                         501.63                        0.129887
+Soothing                           422.44                        0.109382
+Protecting                         399.09                        0.103336
+Purifying                          378.85                        0.098095
+Anti-Ageing                        370.19                        0.095853
+Nourishing                         342.81                        0.088764
+Softening                          333.16                        0.086265
+Repairing                          295.48                        0.076508
+Glowing                            293.17                        0.075910 
+ 
+             Duration of average fixation  % Duration of average fixation
+Greens                                                                   
+Soothing                           384.30                        0.114822
+Repairing                          353.57                        0.105641
+Nourishing                         350.59                        0.104750
+Refreshing                         342.98                        0.102477
+Anti-Ageing                        333.86                        0.099752
+Softening                          328.04                        0.098013
+Hydrating                          320.03                        0.095620
+Protecting                         317.63                        0.094902
+Purifying                          310.41                        0.092745
+Glowing                            305.50                        0.091278 
+ 
+             Duration of average fixation  % Duration of average fixation
+Lavenders                                                                
+Anti-Ageing                        391.88                        0.118699
+Protecting                         363.08                        0.109976
+Purifying                          361.19                        0.109403
+Glowing                            355.54                        0.107692
+Soothing                           342.51                        0.103745
+Softening                          322.61                        0.097717
+Nourishing                         312.94                        0.094788
+Hydrating                          306.21                        0.092750
+Refreshing                         282.62                        0.085605
+Repairing                          262.88                        0.079625 
+ 
+             Duration of average fixation  % Duration of average fixation
+Oranges                                                                  
+Nourishing                         433.82                        0.122405
+Glowing                            402.41                        0.113542
+Refreshing                         369.91                        0.104372
+Protecting                         367.28                        0.103630
+Softening                          345.75                        0.097555
+Hydrating                          337.60                        0.095256
+Repairing                          336.82                        0.095035
+Anti-Ageing                        334.19                        0.094293
+Soothing                           329.32                        0.092919
+Purifying                          287.05                        0.080993 
+ 
+             Duration of average fixation  % Duration of average fixation
+Reds                                                                     
+Repairing                          409.75                        0.118944
+Hydrating                          398.51                        0.115681
+Softening                          387.77                        0.112564
+Glowing                            373.49                        0.108419
+Purifying                          368.33                        0.106921
+Refreshing                         323.89                        0.094020
+Soothing                           312.73                        0.090781
+Protecting                         311.25                        0.090351
+Nourishing                         306.59                        0.088998
+Anti-Ageing                        252.58                        0.073320 
+ 

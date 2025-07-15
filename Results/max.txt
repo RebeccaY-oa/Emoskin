@@ -1,0 +1,22 @@
+               Color of the max of fixation count Color of the max of Revisit count Color of the max of Duration avg fix
+Happy                                     Yellows                           Yellows                                 Reds
+Relaxed                                   Yellows                           Yellows                                Blues
+Energized                                    Reds                              Reds                               Greens
+Surprised                                   Blues                             Blues                              Oranges
+Self-Confident                               Reds                              Reds                                 Reds
+Sensual                                   Yellows                           Yellows                                 Reds
+Reassured                                   Blues                             Blues                              Yellows
+Calm                                    Lavenders                           Yellows                            Lavenders
+Secured                                 Lavenders                         Lavenders                            Lavenders
+Intrigued                                    Reds                              Reds                              Oranges
+Hydrating                                   Blues                             Blues                                Blues
+Anti-Ageing                               Yellows                           Yellows                                 Reds
+Purifying                                   Blues                             Blues                                Blues
+Nourishing                                Yellows                           Yellows                              Oranges
+Soothing                                    Blues                             Blues                              Yellows
+Refreshing                                  Blues                             Blues                                 Reds
+Repairing                                 Oranges                           Oranges                            Lavenders
+Protecting                              Lavenders                              Reds                                 Reds
+Softening                                 Yellows                           Yellows                            Lavenders
+Glowing                                   Yellows                           Yellows                               Grees
+

@@ -1,0 +1,91 @@
+                TTFF (AOI)  % TTFF (AOI)
+Whites                                  
+Sensual            3143.90      0.125778
+Happy              3104.13      0.124187
+Self-Confident     3023.03      0.120942
+Energized          2721.49      0.108879
+Secured            2573.41      0.102954
+Relaxed            2302.52      0.092117
+Surprised          2196.94      0.087893
+Reassured          2043.21      0.081743
+Intrigued          1956.69      0.078281
+Calm               1930.34      0.077227 
+ 
+                TTFF (AOI)  % TTFF (AOI)
+Yellows                                 
+Secured            2104.62      0.117383
+Calm               2010.32      0.112123
+Sensual            1984.66      0.110692
+Intrigued          1951.56      0.108846
+Reassured          1730.40      0.096511
+Surprised          1682.97      0.093866
+Self-Confident     1669.75      0.093128
+Energized          1660.58      0.092617
+Relaxed            1628.03      0.090801
+Happy              1506.68      0.084033 
+ 
+                TTFF (AOI)  % TTFF (AOI)
+Blues                                   
+Reassured          4575.20      0.146503
+Self-Confident     3527.08      0.112941
+Energized          3513.61      0.112510
+Happy              3508.98      0.112362
+Sensual            3482.98      0.111529
+Relaxed            3051.56      0.097715
+Secured            2719.95      0.087096
+Surprised          2395.51      0.076707
+Intrigued          2314.67      0.074119
+Calm               2139.76      0.068518 
+ 
+                TTFF (AOI)  % TTFF (AOI)
+Greens                                  
+Surprised          1504.18      0.128798
+Reassured          1327.62      0.113680
+Energized          1244.72      0.106581
+Sensual            1225.69      0.104952
+Secured            1189.57      0.101859
+Happy              1141.25      0.097721
+Relaxed            1025.78      0.087834
+Self-Confident     1022.41      0.087546
+Intrigued          1009.16      0.086411
+Calm                988.23      0.084619 
+ 
+                TTFF (AOI)  % TTFF (AOI)
+Lavenders                               
+Secured            3366.59      0.134004
+Relaxed            3052.28      0.121493
+Self-Confident     2774.13      0.110422
+Energized          2514.18      0.100074
+Surprised          2505.92      0.099746
+Calm               2366.79      0.094208
+Reassured          2302.12      0.091634
+Happy              2137.07      0.085064
+Intrigued          2114.68      0.084173
+Sensual            1989.33      0.079183 
+ 
+                TTFF (AOI)  % TTFF (AOI)
+Oranges                                 
+Relaxed            3417.32      0.125701
+Calm               3271.74      0.120346
+Self-Confident     3073.17      0.113042
+Secured            2853.43      0.104959
+Reassured          2737.75      0.100704
+Sensual            2614.65      0.096176
+Intrigued          2534.24      0.093218
+Energized          2408.38      0.088589
+Happy              2173.39      0.079945
+Surprised          2102.01      0.077319 
+ 
+                TTFF (AOI)  % TTFF (AOI)
+Reds                                    
+Calm               3481.62      0.131036
+Reassured          2962.64      0.111503
+Energized          2898.34      0.109083
+Relaxed            2738.39      0.103063
+Secured            2700.02      0.101619
+Happy              2687.71      0.101156
+Intrigued          2531.11      0.095262
+Self-Confident     2265.47      0.085264
+Sensual            2189.59      0.082408
+Surprised          2115.08      0.079604 
+ 

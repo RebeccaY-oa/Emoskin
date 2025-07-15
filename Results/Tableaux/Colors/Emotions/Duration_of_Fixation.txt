@@ -1,0 +1,91 @@
+                Duration of average fixation  % Duration of average fixation
+Whites                                                                      
+Calm                                  415.27                        0.136058
+Relaxed                               359.25                        0.117704
+Secured                               341.11                        0.111760
+Reassured                             312.13                        0.102265
+Intrigued                             296.27                        0.097069
+Sensual                               292.56                        0.095853
+Self-Confident                        283.15                        0.092770
+Happy                                 277.53                        0.090929
+Energized                             241.99                        0.079285
+Surprised                             232.90                        0.076307 
+ 
+                Duration of average fixation  % Duration of average fixation
+Yellows                                                                     
+Relaxed                               427.94                        0.129688
+Happy                                 377.14                        0.114293
+Secured                               359.87                        0.109059
+Reassured                             337.33                        0.102228
+Intrigued                             328.73                        0.099622
+Energized                             325.52                        0.098649
+Sensual                               311.14                        0.094291
+Calm                                  292.19                        0.088549
+Surprised                             273.14                        0.082775
+Self-Confident                        266.77                        0.080845 
+ 
+                Duration of average fixation  % Duration of average fixation
+Blues                                                                       
+Intrigued                             414.00                        0.111920
+Secured                               401.02                        0.108411
+Happy                                 396.85                        0.107283
+Self-Confident                        382.20                        0.103323
+Calm                                  381.48                        0.103128
+Reassured                             368.63                        0.099655
+Sensual                               345.50                        0.093402
+Energized                             341.68                        0.092369
+Surprised                             336.72                        0.091028
+Relaxed                               331.00                        0.089482 
+ 
+                Duration of average fixation  % Duration of average fixation
+Greens                                                                      
+Secured                               386.55                        0.119690
+Energized                             341.25                        0.105664
+Relaxed                               338.80                        0.104905
+Intrigued                             336.91                        0.104320
+Reassured                             329.78                        0.102112
+Happy                                 322.77                        0.099942
+Self-Confident                        306.77                        0.094988
+Surprised                             295.96                        0.091640
+Calm                                  293.51                        0.090882
+Sensual                               277.28                        0.085856 
+ 
+                Duration of average fixation  % Duration of average fixation
+Lavenders                                                                   
+Sensual                               389.34                        0.110599
+Relaxed                               379.41                        0.107778
+Intrigued                             361.93                        0.102813
+Calm                                  358.36                        0.101798
+Reassured                             355.10                        0.100872
+Surprised                             352.51                        0.100137
+Self-Confident                        339.62                        0.096475
+Happy                                 328.36                        0.093276
+Secured                               327.91                        0.093149
+Energized                             327.75                        0.093103 
+ 
+                Duration of average fixation  % Duration of average fixation
+Oranges                                                                     
+Reassured                             434.15                        0.123484
+Surprised                             391.44                        0.111336
+Self-Confident                        391.04                        0.111223
+Secured                               361.39                        0.102789
+Intrigued                             344.82                        0.098076
+Happy                                 341.69                        0.097186
+Calm                                  338.35                        0.096236
+Sensual                               309.00                        0.087888
+Relaxed                               306.71                        0.087237
+Energized                             297.24                        0.084543 
+ 
+                Duration of average fixation  % Duration of average fixation
+Reds                                                                        
+Sensual                               410.10                        0.118950
+Reassured                             394.78                        0.114506
+Intrigued                             386.83                        0.112200
+Happy                                 364.42                        0.105700
+Calm                                  333.46                        0.096720
+Energized                             330.50                        0.095862
+Self-Confident                        313.86                        0.091035
+Relaxed                               310.16                        0.089962
+Surprised                             305.87                        0.088718
+Secured                               297.69                        0.086345 
+ 
